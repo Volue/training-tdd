@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Training.TDD.Api", "Training.TDD.Api\Training.TDD.Api.csproj", "{84427563-BA68-4271-A046-97C4BA5441E1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Training.TDD.Api.Test", "Training.TDD.Api.Test\Training.TDD.Api.Test.csproj", "{DF0DE48A-D57B-4A8D-A70A-D726493C0B87}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{84427563-BA68-4271-A046-97C4BA5441E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84427563-BA68-4271-A046-97C4BA5441E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84427563-BA68-4271-A046-97C4BA5441E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84427563-BA68-4271-A046-97C4BA5441E1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DF0DE48A-D57B-4A8D-A70A-D726493C0B87}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF0DE48A-D57B-4A8D-A70A-D726493C0B87}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF0DE48A-D57B-4A8D-A70A-D726493C0B87}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF0DE48A-D57B-4A8D-A70A-D726493C0B87}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
